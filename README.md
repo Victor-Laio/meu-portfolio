@@ -26,9 +26,10 @@ Bem-vindo ao repositório do meu **Portfólio Pessoal**, desenvolvido utilizando
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Victor-Laio/meu-portfolio.git
 
 # Acesse a pasta do projeto
-cd seu-repositorio
+cd meu-portfolio
 
 # Abra o arquivo index.html com seu navegador preferido
+
