@@ -20,7 +20,7 @@ Bem-vindo ao repositório do meu **Portfólio Pessoal**, desenvolvido utilizando
 
 ## 📸 Preview
 
-*Você pode visualizar o projeto ao vivo [clicando aqui](https://github.com/Victor-Laio?tab=repositories)*  
+*Você pode visualizar o projeto ao vivo [clicando aqui](https://victor-laio.github.io/meu-portfolio/)*  
 
 ## 📁 Como Rodar Localmente
 
